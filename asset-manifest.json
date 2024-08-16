@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/AgeMate.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/AgeMate.github.io/static/js/main.5dc5f382.js",
+    "main.js": "/AgeMate.github.io/static/js/main.d4d6a4ec.js",
+    "static/media/bigdemo.mp4": "/AgeMate.github.io/static/media/bigdemo.7fef468e1ebaf4a9a7f5.mp4",
     "static/media/yahoo-news-05.png": "/AgeMate.github.io/static/media/yahoo-news-05.f077766c20c1508b7fcc.png",
     "static/media/AgeMate-demo.mp4": "/AgeMate.github.io/static/media/AgeMate-demo.15b930cc6ff275c3d4f1.mp4",
     "static/media/AppAgent-TieTie-demo.mp4": "/AgeMate.github.io/static/media/AppAgent-TieTie-demo.5705b890475d7b7a7b3f.mp4",
@@ -50,10 +51,10 @@
     "static/media/prompt-ue02-01.md": "/AgeMate.github.io/static/media/prompt-ue02-01.f66fc170408abb7d486c.md",
     "index.html": "/AgeMate.github.io/index.html",
     "main.e6c13ad2.css.map": "/AgeMate.github.io/static/css/main.e6c13ad2.css.map",
-    "main.5dc5f382.js.map": "/AgeMate.github.io/static/js/main.5dc5f382.js.map"
+    "main.d4d6a4ec.js.map": "/AgeMate.github.io/static/js/main.d4d6a4ec.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5dc5f382.js"
+    "static/js/main.d4d6a4ec.js"
   ]
 }
